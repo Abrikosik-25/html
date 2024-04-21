@@ -1,0 +1,24 @@
+{
+            "tovar": "Dota plus",
+            "data": {
+                "tovar": "Dota plus",
+				"vrem": "На 1 месяц",
+				"cena": "400₽",
+            }
+        },
+        {
+            "tovar": "Dota plus",
+            "data": {
+                "tovar": "Dota plus",
+				"vrem": "На 6 месяц",
+				"cena": "2260₽",
+            }
+        },
+        {
+            "tovar": "Dota plus",
+            "data": {
+                "tovar": "Dota plus",
+				"vrem": "На 12 месяц",
+				"cena": "4250₽",
+            }
+        }
